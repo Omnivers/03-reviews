@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/03-reviews/static/css/main.e64ab053.chunk.css",
+    "main.js": "/03-reviews/static/js/main.ed6b06a3.chunk.js",
+    "main.js.map": "/03-reviews/static/js/main.ed6b06a3.chunk.js.map",
+    "runtime-main.js": "/03-reviews/static/js/runtime-main.bacaca2c.js",
+    "runtime-main.js.map": "/03-reviews/static/js/runtime-main.bacaca2c.js.map",
+    "static/js/2.bdbc782b.chunk.js": "/03-reviews/static/js/2.bdbc782b.chunk.js",
+    "static/js/2.bdbc782b.chunk.js.map": "/03-reviews/static/js/2.bdbc782b.chunk.js.map",
+    "index.html": "/03-reviews/index.html",
+    "precache-manifest.c1e3cb6a009c277b1020f364d14bee57.js": "/03-reviews/precache-manifest.c1e3cb6a009c277b1020f364d14bee57.js",
+    "service-worker.js": "/03-reviews/service-worker.js",
+    "static/css/main.e64ab053.chunk.css.map": "/03-reviews/static/css/main.e64ab053.chunk.css.map",
+    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/03-reviews/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bacaca2c.js",
+    "static/js/2.bdbc782b.chunk.js",
+    "static/css/main.e64ab053.chunk.css",
+    "static/js/main.ed6b06a3.chunk.js"
+  ]
+}
